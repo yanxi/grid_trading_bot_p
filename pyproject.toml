@@ -16,7 +16,8 @@ dependencies = [
     "ccxt==4.4.52",
     "configparser==7.1.0",
     "psutil==6.1.1",
-    "python-dotenv==1.0.1"
+    "python-dotenv==1.0.1",
+    "py-clob-client==0.20.0"
 ]
 
 [project.optional-dependencies]
